@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "title": "Taks 1",
+      "responsible": "Mark",
+      "description": "Lorem impsum",
+      "priority": "low"
+    },
+    {
+      "title": "Taks 2",
+      "responsible": "Mark 2",
+      "description": "Lorem impsum",
+      "priority": "medium"
+    },
+    {
+      "title": "Taks 3",
+      "responsible": "Mark 3",
+      "description": "Lorem impsum",
+      "priority": "high"
+    }
+  ]
+}
